@@ -8,7 +8,7 @@
 
 Projeto desenvolvido para a NLW3.
 
-Traga felicidade para o mundo, visite casas de acolhimento institucional e mude o dia de muitas crianças.
+Leve felicidade para o mundo, visite casas de acolhimento institucional e mude o dia de muitas crianças.
 
 O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz.
 
@@ -33,6 +33,9 @@ O Happy é uma aplicação que conecta pessoas à casas de acolhimento instituci
 # Aplicação web
 
 Inicialmente o projeto possui uma lista de orfanatos, detalhes e cadastro de orfanatos.
+
+- [Projeto Backend](https://github.com/paesrafael/nlw3-happy-backend)
+- [Projeto Mobile](https://github.com/paesrafael/nlw3-happy-mobile)
 
 <p align="center">
   <a href="#" target="_blank">
@@ -173,4 +176,4 @@ npm start
 
 # Autor
 
-NLW3 - Happy desenvolvido por [Rafael Paes](https://github.com/paesrafael/nlw3-happy-web)
+NLW3 - Happy desenvolvido por [Rafael Paes](https://github.com/paesrafael/)
