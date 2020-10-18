@@ -41,6 +41,37 @@ const MapWrapper = styled.section`
   .leaflet-container {
     z-index: 9;
   }
+
+  .map-popup .leaflet-popup-content {
+    margin: 5px 10px;
+    color: var(--cyan-dark);
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .map-popup .leaflet-popup-content a {
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    background: var(--blue-light);
+    box-shadow: 17.2868px 27.6589px 41.4884px var(--cyan-medium-dark);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .map-popup .leaflet-popup-tip-container {
+    display: none;
+  }
+
+  .map-popup .leaflet-popup-content-wrapper {
+    border-radius: 20px;
+    background: var(--white-light);
+    box-shadow: none;
+  }
 `
 
 const LinkWrapper = styled.a`
